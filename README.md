@@ -5,7 +5,7 @@ Environment:
 Windows
   
 Description:  
-display PSU, CPU, GPU power in Watt
+Display PSU, CPU, GPU power in Watt
 
 Usage: 
 python gpower.py
