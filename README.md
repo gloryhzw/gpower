@@ -7,6 +7,8 @@ Windows
 Description:  
 Display PSU, CPU, GPU power in Watt (both console and RTSS OSD)
 
+There are too many complicated ways and programs, why not keep it simple and clean?
+
 Usage: 
 python gpower.py
 
